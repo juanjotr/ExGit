@@ -1,0 +1,21 @@
+# Fitxers d'edició
+*~
+ 
+# Fitxers de compilació
+*.[oa]
+*.class
+ 
+# paquets i comprimits
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.tar.gz
+*.zip
+ 
+# contingut de directoris complets
+build/
+tmp/

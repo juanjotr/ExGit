@@ -1,0 +1,23 @@
+commit 5f6d9f62792650a16d1ddd47329159f36d26b025
+Author: juanjotr <relojes_tr@hotmail.com>
+Date:   Thu May 19 16:32:23 2016 +0200
+
+    Incluyo los nuevos ficheros creados
+
+commit 01785971818913b23abd57117138969dcf66f60e
+Author: juanjotr <relojes_tr@hotmail.com>
+Date:   Thu May 19 16:31:12 2016 +0200
+
+    Paso 8 del ejercicio
+
+commit 7b681958a88d834fbf6e1846b5c02b7aa1738475
+Author: juanjotr <relojes_tr@hotmail.com>
+Date:   Thu May 19 16:19:20 2016 +0200
+
+    Añadir mi primer archivo
+
+commit 92e1f610e0e9bda20dc1582241f969bc08a5f7a8
+Author: juanjotr <relojes_tr@hotmail.com>
+Date:   Thu May 19 16:11:14 2016 +0200
+
+    Initial commit
